@@ -60,7 +60,7 @@ SareeLab is an AI saree styling assistant built as a [ChatGPT Custom GPT](https:
 
 ## Related
 
-- [SareeLab Web App](https://github.com/prkvs/SareeLab) — The original React + Gemini AI web app
+- [SareeLab Web App](https://sareelabhq.com/) — The original AI-powered saree styling web app
 
 ## License
 
